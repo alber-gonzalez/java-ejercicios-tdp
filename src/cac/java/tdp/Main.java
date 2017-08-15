@@ -22,6 +22,23 @@ public class Main {
      */
     public static void main(String[] args) {
         
+        int N;
+        double A;
+        char C;
+        
+        byte D;
+        
+        N = 3;
+        A = 2.5;
+        C = 'a';
+        D = (byte) C;
+       
+        
+        System.out.println(N+A);
+        System.out.println(A-N);
+        System.out.println(D);
+        
+       
     }
     
 }
