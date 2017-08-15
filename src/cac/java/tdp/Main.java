@@ -18,6 +18,21 @@ public class Main {
      */
     public static void main(String[] args) {
         
+        int X;
+        int Y;
+        double N;
+        double M;
+        
+        X = 6;
+        Y = 4;
+        N = 3.5;
+        M = 2.1;
+        
+        System.out.println(X-M);
+        System.out.println(N+M);
+        System.out.println(X/M);
+               
+        
     }
     
 }
