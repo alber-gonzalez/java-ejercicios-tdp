@@ -17,6 +17,14 @@ public class Main {
      */
     public static void main(String[] args) {
         
+        int N;
+        
+        N = 3;
+        
+        System.out.println(N+77);
+        System.out.println(N-3);
+        System.out.println(N*2);
+        
     }
     
 }
