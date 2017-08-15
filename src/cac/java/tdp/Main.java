@@ -18,6 +18,12 @@ public class Main {
      */
     public static void main(String[] args) {
         
+      int B;
+      
+      B = -19;
+      
+      System.out.println(B>=0? "positivo" : "negativo");
+        
     }
     
 }
