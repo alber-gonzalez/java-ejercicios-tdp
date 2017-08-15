@@ -21,6 +21,17 @@ public class Main {
      */
     public static void main(String[] args) {
         
+        int C;
+        
+        C = 980;
+        
+        System.out.println(C>=0? "positivo" : "negativo");
+        System.out.println(C%2==0? "par" : "impar");
+        System.out.println(C%5==0? "es multiplo de 5" : "no es multiplo de 5");
+        System.out.println(C%10==0? "es multiplo de 10" : "no es multiplo de 10");
+        System.out.println(C>100? "mayor que 100" : "menor que 100");
+        
+        
     }
     
 }
