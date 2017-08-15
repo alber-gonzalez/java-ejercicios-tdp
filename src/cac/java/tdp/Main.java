@@ -17,6 +17,13 @@ public class Main {
      */
     public static void main(String[] args) {
         
+        int A;
+        
+        A = 99;
+        
+        System.out.println(A%2==0? "par" : "impar");
+        
+        
     }
     
 }
