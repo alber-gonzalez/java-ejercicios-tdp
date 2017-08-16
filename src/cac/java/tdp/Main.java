@@ -23,8 +23,8 @@ public class Main {
         
         int C;
         
-        C = 42;
-        
+        C = 990;
+
         System.out.println(C>=0? "positivo" : "negativo");
         System.out.println(C%2==0? "par" : "impar");
         System.out.println(C%5==0? "es multiplo de 5" : "no es multiplo de 5");
