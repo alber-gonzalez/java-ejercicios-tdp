@@ -23,7 +23,7 @@ public class Main {
         
         int C;
         
-        C = 980;
+        C = 9;
         
         System.out.println(C>=0? "positivo" : "negativo");
         System.out.println(C%2==0? "par" : "impar");
